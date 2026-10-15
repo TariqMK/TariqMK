@@ -1,10 +1,9 @@
 ## Bio
 
-My name is Tariq Khan and I'm a Network Engineer with interest in Python, DevOps and general Network Automation
+Hi, I'm Tariq.
 
-I'm currently learning my way through Python and Linux, constantly looking to learn more.
+I work in IT but not directly as a Software Engineer. 
 
-<!---
-TariqMK/TariqMK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I do however use AI to learn parts of software engineering and use that knowledge to build applications/scripts that solve everyday technological problems that I face.
+
+I'm confident that the applications I've made can help others too, so check out some of my repos!
