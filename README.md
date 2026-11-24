@@ -1,6 +1,4 @@
-## Bio
-
-Hi, I'm Tariq.
+## Hi, I'm Tariq.
 
 I work in IT but not directly as a Software Engineer. 
 
